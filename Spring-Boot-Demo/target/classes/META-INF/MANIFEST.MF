@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring-Boot-Demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: In-Depth
+Implementation-Vendor-Id: com.idt
+Build-Jdk: 1.8.0_60
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Spring-Boot-Demo
+Created-By: Maven Integration for Eclipse
+
